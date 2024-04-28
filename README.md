@@ -85,7 +85,7 @@ GCM has stored for as long as they're valid.
 Read full command line usage [here][gcm-usage].
 
 ### Configuring a proxy
-
+psiphon pro v393
 See detailed information [here][gcm-http-proxy].
 
 ## Additional Resources
